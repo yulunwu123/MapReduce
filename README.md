@@ -39,8 +39,8 @@ python highfrequencywords.py -r emr --conf-path ./mrjob.conf harry.txt
 ```
 I deleted my testing AWS access keys, so it can't be run anymore, but here's a screenshot of 
 expected result.
-![](elastic mapreduce result(1).png)
-![](elastic mapreduce result(2).png)
+![](./elastic mapreduce result(1).png)
+![](./elastic mapreduce result(2).png)
 
 ## word_frequency.py and mr_word_count.py
 As indicated by their citations, they are sample programs from mrjob's documentation.

@@ -31,7 +31,7 @@ python3 pattern_processing.py harry.txt
 python3 highfrequencywords.py harry.txt
 ```
 
-## Run jobs on Elastic MapReduce and Use S3 with AWS.
+## Run jobs on Elastic MapReduce and Use S3 with AWS
 Configurations can be found in file ```mrjob.conf```. 
 To run on EMR:
 ```markdown
@@ -41,3 +41,7 @@ I deleted my testing AWS access keys, so it can't be run anymore, but here's a s
 expected result.
 ![](elastic mapreduce result(1).png)
 ![](elastic mapreduce result(2).png)
+
+## word_frequency.py and mr_word_count.py
+As indicated by their citations, they are sample programs from mrjob's documentation.
+

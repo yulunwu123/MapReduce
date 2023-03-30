@@ -1,3 +1,8 @@
+"""
+mrjob v0.7.4 documentation: Writing your second job
+https://mrjob.readthedocs.io/en/latest/guides/quickstart.html#writing-your-second-job
+"""
+
 from mrjob.job import MRJob
 from mrjob.step import MRStep
 import re

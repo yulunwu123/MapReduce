@@ -1,3 +1,7 @@
+"""
+mrjob v0.7.4 documentation: Writing your first job
+https://mrjob.readthedocs.io/en/latest/guides/quickstart.html
+"""
 from mrjob.job import MRJob
 
 

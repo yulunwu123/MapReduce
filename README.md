@@ -40,6 +40,7 @@ python highfrequencywords.py -r emr --conf-path ./mrjob.conf harry.txt
 I deleted my testing AWS access keys, so it can't be run anymore, but here's a screenshot of 
 expected result.
 ![](elastic_mapreduce_result(1).png)
+
 ![](elastic_mapreduce_result(2).png)
 
 ## word_frequency.py and mr_word_count.py
